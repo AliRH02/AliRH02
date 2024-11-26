@@ -7,5 +7,12 @@ Hello, I’m Alison, a Senior at Gordon College working toward a bachelor’s de
 
 - I am currently learning about Artificial Intelligence and Machine Learning. I started the BreakThroughTech AI program in April, which was my first experience with Data Science.
  
-- Fun fact: I love painting and sketching in my free time. 
+- Fun fact: I love painting and sketching in my free time.
 
+🛠 Skills:
+
+Technical: C++, C#, Dart, Python (Numpy, Scikit-learn Pandas, Matplotlib), Java, HTML/CSS, and JavaScript,
+
+Certifications: Cornell University Machine Learning Certificate
+
+🎯 Featured Project: [Root Cause Analysis: Break Through Tech AI Project](https://github.com/kkmanvi123/root-cause-analysis)
