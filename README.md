@@ -15,4 +15,6 @@ Technical: C++, C#, Dart, Python (Numpy, Scikit-learn Pandas, Matplotlib), Java,
 
 Certifications: Cornell University Machine Learning Certificate
 
-🎯 Featured Project: [Root Cause Analysis: Break Through Tech AI Project](https://github.com/kkmanvi123/root-cause-analysis)
+Cadence Desing SystemMachine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for Cadence for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! 
+Featured Project: [Root Cause Analysis: Break Through Tech AI Project](https://github.com/kkmanvi123/root-cause-analysis)
+
